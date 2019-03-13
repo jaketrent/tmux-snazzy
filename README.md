@@ -2,7 +2,7 @@
 
 > A [tmux](https://github.com/tmux/tmux/wiki) theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
 
-TODO: screen
+![tmux screenshot](screenshot.png)
 
 ## Install
 
