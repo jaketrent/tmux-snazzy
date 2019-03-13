@@ -9,7 +9,7 @@ TODO: screen
 Download this file and place it alongside your kitty config file.
 
 ```
-$ curl -o ~/ https://raw.githubusercontent.com/jaketrent/tmux-snazzy/master/tmux-snazzy.theme.conf
+$ curl -o ~/tmux-snazzy.theme.conf https://raw.githubusercontent.com/jaketrent/tmux-snazzy/master/tmux-snazzy.theme.conf
 ```
 
 Place this line at the bottom of your `.tmux.conf` file:
