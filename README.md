@@ -6,7 +6,9 @@
 
 ## Install
 
-Download this file and place it alongside your kitty config file.
+### Manual
+
+Download this file and place it anywhere you like.
 
 ```
 $ curl -o ~/tmux-snazzy.theme.conf https://raw.githubusercontent.com/jaketrent/tmux-snazzy/master/tmux-snazzy.theme.conf
@@ -16,6 +18,14 @@ Place this line at the bottom of your `.tmux.conf` file:
 
 ```
 source-file ~/tmux-snazzy.theme.conf
+```
+
+### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+
+Add plugin to the list of TPM plugins in `.tmux.conf`:
+
+```
+set -g @plugin 'jaketrent/tmux-snazzy'
 ```
 
 ## Related
